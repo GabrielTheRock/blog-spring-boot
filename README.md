@@ -8,6 +8,6 @@ Para testá-lo, basta subir o projeto Spring e acessar a URL http://localhost:80
 
 Os posts contêm título, autor, data e texto. Todos são mostrados e atualizados na tela inicial.
 
-Nele, é possível adicionar novos posts autenticando-se (a senha está configurada no projeto usando Spring Secutiry).
+É possível adicionar novos posts clicando em "Novo Post". É necessário autenticar-se (a senha está configurada no projeto usando Spring Secutiry).
 
 Foi de grande aprendizado para conhecer mais o potencial do Spring MVC e ver como se usa Bootstrap.
